@@ -13,10 +13,10 @@
 
 App::before(function($request)
 {
-    /*if(Request::server('HTTP_X_FORWARDED_PROTO') == 'http')
+    if(Request::server('HTTP_X_FORWARDED_PROTO') == 'http')
     {
         return Redirect::secure(Request::path());
-    }*/
+    }
 });
 
 
