@@ -1,0 +1,17 @@
+<?php
+$JavaScriptAttrs=array(
+    'onload',
+    'onclick',
+    'onchange',
+    'onfocus',
+    'oninvalid',
+    'onblur',
+    'onforminput',
+    'onformchange',
+    'oncontextmenu',
+    'onselect',
+    'onsubmit',
+    'ondblclick',
+    'onmousemove'
+);
+?>
